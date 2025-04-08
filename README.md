@@ -7,6 +7,7 @@ shaurasanといいます。TA志望の26卒です。
 <!-- Ctrl+/で注釈文切り替え -->
 #### 勉強中
  - c#
+ - c++
  - python
  - HLSL
  - MEL
